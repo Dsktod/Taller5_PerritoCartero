@@ -1,0 +1,4498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project source="Stage (Stage.exe) version 10.3.0 build 8663 2013-11-20 21:00:13" version="1030" build="8663" creator="harmony">
+ <elements>
+  <element id="1" elementName="Car_Cabeza" elementFolder="Car_Cabeza" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="2" elementName="Car_Gorra" elementFolder="Car_Gorra" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="3" elementName="Car_Ojo_I" elementFolder="Car_Ojo_I" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="4" elementName="Car_Brazo_I" elementFolder="Car_Brazo_I" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="5" elementName="Car_Pierna_D" elementFolder="Car_Pierna_D" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="6" elementName="Car_Oreja" elementFolder="Car_Oreja" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="7" elementName="Car_Torso" elementFolder="Car_Torso" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="8" elementName="Car_Mano_I" elementFolder="Car_Mano_I" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="9" elementName="Car_Pie_D" elementFolder="Car_Pie_D" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="10" elementName="Car_Mano_D" elementFolder="Car_Mano_D" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="11" elementName="Car_Pie_I" elementFolder="Car_Pie_I" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="12" elementName="Car_Ojo_D" elementFolder="Car_Ojo_D" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="13" elementName="Car_Pierna_I" elementFolder="Car_Pierna_I" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="14" elementName="Car_Cola" elementFolder="Car_Cola" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="15" elementName="Car_Cartera" elementFolder="Car_Cartera" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="16" elementName="Car_Brazo_D" elementFolder="Car_Brazo_D" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+ </elements>
+ <options>
+  <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
+  <resolution name="HDTV_Vertical" size="1920,1080" fovFit="VerticalFitFov" fov="41.1121"/>
+  <framerate val="24"/>
+  <zdragging val="true"/>
+  <zOrderCompatibilityWith7_3 val="false"/>
+  <cameraInSymbols val="true"/>
+ </options>
+ <scenes>
+  <scene name="Top" id="0993cb23688388c7" nbframes="60">
+   <columns>
+    <column type="0" name="ATV-0993CB23688388E4" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="1">
+     <elementSeq exposures="1" val="1" id="1"/>
+    </column>
+    <column type="0" name="ATV-0993CB23688388E6" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="2">
+     <elementSeq exposures="1" val="1" id="2"/>
+    </column>
+    <column type="0" name="ATV-0993CB23688388E8" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="3">
+     <elementSeq exposures="1" val="1" id="3"/>
+    </column>
+    <column type="0" name="ATV-0993CB23688388EA" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="4">
+     <elementSeq exposures="1" val="1" id="4"/>
+    </column>
+    <column type="0" name="ATV-0993CB23688388EC" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="5">
+     <elementSeq exposures="1" val="1" id="5"/>
+    </column>
+    <column type="0" name="ATV-0993CB23688388EE" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="6">
+     <elementSeq exposures="1" val="1" id="6"/>
+    </column>
+    <column type="3" name="Deformation-Switch_Kinematic_Chain_Selection_Reference_27" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="false">
+     <step val="1" start="1" stop="1"/>
+    </column>
+    <column type="3" name="Deformation-Switch_Kinematic_Chain_Selection_Reference_28" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="false">
+     <step val="1" start="1" stop="1"/>
+    </column>
+    <column type="3" name="Deformation-Switch_Kinematic_Chain_Selection_Reference_30" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="false">
+     <step val="1" start="1" stop="1"/>
+    </column>
+    <column type="3" name="Deformation-Switch_Kinematic_Chain_Selection_Reference_31" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="false">
+     <step val="1" start="1" stop="1"/>
+    </column>
+    <column type="3" name="Deformation-Switch_Kinematic_Chain_Selection_Reference_29" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="false">
+     <step val="1" start="1" stop="1"/>
+    </column>
+    <column type="0" name="ATV-0993CB23688388F0" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="7">
+     <elementSeq exposures="1" val="1" id="7"/>
+    </column>
+    <column type="0" name="ATV-0993CB23688388F2" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="8">
+     <elementSeq exposures="1" val="1" id="8"/>
+    </column>
+    <column type="0" name="ATV-0993CB23688388F4" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="9">
+     <elementSeq exposures="1" val="1" id="9"/>
+    </column>
+    <column type="0" name="ATV-0993CB23688388F6" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="10">
+     <elementSeq exposures="1" val="1" id="10"/>
+    </column>
+    <column type="0" name="ATV-0993CB23688388F8" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="11">
+     <elementSeq exposures="1" val="1" id="11"/>
+    </column>
+    <column type="0" name="ATV-0993CB23688388FA" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="12">
+     <elementSeq exposures="1" val="1" id="12"/>
+    </column>
+    <column type="0" name="ATV-0993CB23688388FC" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="13">
+     <elementSeq exposures="1" val="1" id="13"/>
+    </column>
+    <column type="0" name="ATV-0993CB23688388FE" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="14">
+     <elementSeq exposures="1" val="1" id="14"/>
+    </column>
+    <column type="0" name="ATV-0993CB2368838900" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="15">
+     <elementSeq exposures="1" val="1" id="15"/>
+    </column>
+    <column type="0" name="ATV-0993CB2368838902" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="16">
+     <elementSeq exposures="1" val="1" id="16"/>
+    </column>
+   </columns>
+   <options>
+    <defaultDisplay val="Unconnected_Display"/>
+   </options>
+   <rootgroup name="Top">
+    <options>
+     <collapsed val="false"/>
+    </options>
+    <nodeslist>
+     <group name="Perrito_TresCuartos" pos="0,33,1">
+      <options>
+       <subnodeCollapsed val="true"/>
+       <collapsed val="false"/>
+      </options>
+      <attrs/>
+      <nodeslist>
+       <module type="MULTIPORT_IN" name="Multi-Port-In" pos="-442,-1229,9">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="-442,136,10">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <ports>
+         <port type="IMAGE" idx="0"/>
+        </ports>
+       </module>
+       <module type="READ" name="Car_Cabeza" pos="-1053,-404,39">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB23688388E4"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Car_Gorra" pos="-1310,-276,42">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB23688388E6"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Car_Ojo_I" pos="-1086,-350,40">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB23688388E8"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Car_Brazo_I" pos="-290,-661,34">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB23688388EA"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Car_Pierna_D" pos="-67,-464,28">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB23688388EC"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Car_Oreja" pos="-1483,-238,43">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB23688388EE"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <group name="Deformation-Car_Brazo_D" pos="-1052,-658,2">
+        <options>
+         <subnodeCollapsed val="true"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs/>
+        <nodeslist>
+         <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="108,272,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <ports>
+           <port type="PEG" idx="0"/>
+           <port type="PEG" idx="1"/>
+          </ports>
+         </module>
+         <module type="MULTIPORT_IN" name="Multi-Port-In" pos="108,-478,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <ports>
+           <port type="PEG" idx="0"/>
+          </ports>
+         </module>
+         <module type="DeformationRootModule" name="Deformation-Root" pos="108,-428,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <deformationquality val="Very High"/>
+          </attrs>
+         </module>
+         <module type="DeformationCompositeModule" name="Deformation-Composite" pos="108,172,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <outputmatrixonly val="false"/>
+           <outputselectedonly val="true"/>
+           <outputkinematicchainselector val="CHILD_READ"/>
+           <outputkinematicchain val="1" col="Deformation-Switch_Kinematic_Chain_Selection_Reference_27"/>
+          </attrs>
+         </module>
+         <module type="DeformationSwitchModule" name="Deformation-Switch" pos="108,222,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <vectorquality val="Very High"/>
+           <fadeexponent val="3"/>
+           <fadeinside val="false"/>
+           <enabledeformation val="1"/>
+           <chainselectionreference val="1" col="Deformation-Switch_Kinematic_Chain_Selection_Reference_27"/>
+          </attrs>
+         </module>
+         <group name="1" pos="108,-178,0">
+          <options>
+           <subnodeCollapsed val="true"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs/>
+          <nodeslist>
+           <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="108,272,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <ports>
+             <port type="PEG" idx="0"/>
+             <port type="PEG" idx="1"/>
+            </ports>
+           </module>
+           <module type="MULTIPORT_IN" name="Multi-Port-In" pos="108,-478,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <ports>
+             <port type="PEG" idx="0"/>
+            </ports>
+           </module>
+           <module type="DeformationRootModule" name="Deformation-Root" pos="108,-428,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <deformationquality val="Very High"/>
+            </attrs>
+           </module>
+           <module type="DeformationCompositeModule" name="Deformation-Composite" pos="108,172,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <outputmatrixonly val="false"/>
+             <outputselectedonly val="false"/>
+             <outputkinematicchainselector val="RIGHTMOST"/>
+             <outputkinematicchain val="1"/>
+            </attrs>
+           </module>
+           <module type="DeformationSwitchModule" name="Deformation-Switch" pos="108,222,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <vectorquality val="Very High"/>
+             <fadeexponent val="3"/>
+             <fadeinside val="false"/>
+             <enabledeformation val="1"/>
+             <chainselectionreference val="1"/>
+            </attrs>
+           </module>
+           <module type="OffsetModule" name="Offset" pos="108,-378,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <restingoffset>
+              <x val="-0.626704"/>
+              <y val="1.79552"/>
+             </restingoffset>
+             <restingorientation val="87.9149"/>
+             <offset>
+              <separate val="true"/>
+              <x val="-0.626704"/>
+              <y val="1.79552"/>
+             </offset>
+             <orientation val="87.9149"/>
+            </attrs>
+           </module>
+           <module type="CurveModule" name="Curve" pos="108,-328,0">
+            <shapedROI>
+             <pt pointOn="-5,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOn="5,-5"/>
+             <pt pointOff="5,-2"/>
+             <pt pointOff="5,2"/>
+             <pt pointOn="5,5"/>
+             <pt pointOff="2,5"/>
+             <pt pointOff="-2,5"/>
+             <pt pointOn="-5,5"/>
+             <pt pointOff="-5,2"/>
+             <pt pointOff="-5,-2"/>
+             <pt pointOn="-5,-5"/>
+            </shapedROI>
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <influencetype val="INFINITE_INFLUENCE"/>
+             <influencefade val="0.5"/>
+             <symmetric val="true"/>
+             <transversalradius val="2"/>
+             <transversalradiusright val="2"/>
+             <longitudinalradiusbegin val="0.25"/>
+             <longitudinalradius val="0.25"/>
+             <restlength0 val="1.83232"/>
+             <restingorientation0 val="0"/>
+             <restingoffset>
+              <x val="0.000775784"/>
+              <y val="1.90894"/>
+             </restingoffset>
+             <restlength1 val="1.11467"/>
+             <restingorientation1 val="175.909"/>
+             <length0 val="1.83232"/>
+             <orientation0 val="0"/>
+             <offset>
+              <separate val="true"/>
+              <x val="0.000775784"/>
+              <y val="1.90894"/>
+             </offset>
+             <length1 val="1.11467"/>
+             <orientation1 val="175.909"/>
+            </attrs>
+           </module>
+           <module type="CurveModule" name="Curve_1" pos="108,-278,0">
+            <shapedROI>
+             <pt pointOn="-5,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOn="5,-5"/>
+             <pt pointOff="5,-2"/>
+             <pt pointOff="5,2"/>
+             <pt pointOn="5,5"/>
+             <pt pointOff="2,5"/>
+             <pt pointOff="-2,5"/>
+             <pt pointOn="-5,5"/>
+             <pt pointOff="-5,2"/>
+             <pt pointOff="-5,-2"/>
+             <pt pointOn="-5,-5"/>
+            </shapedROI>
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <influencetype val="INFINITE_INFLUENCE"/>
+             <influencefade val="0.5"/>
+             <symmetric val="true"/>
+             <transversalradius val="2"/>
+             <transversalradiusright val="2"/>
+             <longitudinalradiusbegin val="0.25"/>
+             <longitudinalradius val="0.25"/>
+             <restlength0 val="1.11467"/>
+             <restingorientation0 val="0"/>
+             <restingoffset>
+              <x val="2.37814"/>
+              <y val="-0.00893137"/>
+             </restingoffset>
+             <restlength1 val="1.18088"/>
+             <restingorientation1 val="0.386919"/>
+             <length0 val="1.11467"/>
+             <orientation0 val="0"/>
+             <offset>
+              <separate val="true"/>
+              <x val="2.37814"/>
+              <y val="-0.00893137"/>
+             </offset>
+             <length1 val="1.18088"/>
+             <orientation1 val="0.386919"/>
+            </attrs>
+           </module>
+          </nodeslist>
+          <linkedlist>
+           <link out="Multi-Port-In" in="Deformation-Root"/>
+           <link out="Deformation-Root" in="Offset"/>
+           <link out="Deformation-Composite" in="Deformation-Switch"/>
+           <link out="Deformation-Switch" in="Multi-Port-Out" inport="0"/>
+           <link out="Offset" in="Curve"/>
+           <link out="Curve" in="Curve_1"/>
+           <link out="Curve_1" in="Deformation-Composite"/>
+           <link out="Curve_1" in="Multi-Port-Out" inport="1"/>
+          </linkedlist>
+         </group>
+         <module type="DeformationCompositeModule" name="Deformation-Car_Brazo_D-kinematic" pos="-192,222,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <outputmatrixonly val="true"/>
+           <outputselectedonly val="true"/>
+           <outputkinematicchainselector val="USE_PARENT_COMPOSITE"/>
+           <outputkinematicchain val="1"/>
+          </attrs>
+         </module>
+        </nodeslist>
+        <linkedlist>
+         <link out="Multi-Port-In" in="Deformation-Root"/>
+         <link out="Deformation-Root" in="1"/>
+         <link out="Deformation-Composite" in="Deformation-Switch"/>
+         <link out="Deformation-Composite" in="Deformation-Car_Brazo_D-kinematic" inport="0"/>
+         <link out="Deformation-Switch" in="Multi-Port-Out" inport="0"/>
+         <link out="1" in="Deformation-Composite"/>
+         <link out="1" outport="1" in="Deformation-Car_Brazo_D-kinematic" inport="1"/>
+         <link out="Deformation-Car_Brazo_D-kinematic" in="Multi-Port-Out" inport="1"/>
+        </linkedlist>
+       </group>
+       <group name="Deformation-Car_Brazo_I" pos="-316,-779,4">
+        <options>
+         <subnodeCollapsed val="true"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs/>
+        <nodeslist>
+         <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="108,272,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <ports>
+           <port type="PEG" idx="0"/>
+           <port type="PEG" idx="1"/>
+          </ports>
+         </module>
+         <module type="MULTIPORT_IN" name="Multi-Port-In" pos="108,-478,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <ports>
+           <port type="PEG" idx="0"/>
+          </ports>
+         </module>
+         <module type="DeformationRootModule" name="Deformation-Root" pos="108,-428,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <deformationquality val="Very High"/>
+          </attrs>
+         </module>
+         <module type="DeformationCompositeModule" name="Deformation-Composite" pos="108,172,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <outputmatrixonly val="false"/>
+           <outputselectedonly val="true"/>
+           <outputkinematicchainselector val="CHILD_READ"/>
+           <outputkinematicchain val="1" col="Deformation-Switch_Kinematic_Chain_Selection_Reference_28"/>
+          </attrs>
+         </module>
+         <module type="DeformationSwitchModule" name="Deformation-Switch" pos="108,222,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <vectorquality val="Very High"/>
+           <fadeexponent val="3"/>
+           <fadeinside val="false"/>
+           <enabledeformation val="1"/>
+           <chainselectionreference val="1" col="Deformation-Switch_Kinematic_Chain_Selection_Reference_28"/>
+          </attrs>
+         </module>
+         <group name="1" pos="108,-178,0">
+          <options>
+           <subnodeCollapsed val="true"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs/>
+          <nodeslist>
+           <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="108,272,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <ports>
+             <port type="PEG" idx="0"/>
+             <port type="PEG" idx="1"/>
+            </ports>
+           </module>
+           <module type="MULTIPORT_IN" name="Multi-Port-In" pos="108,-478,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <ports>
+             <port type="PEG" idx="0"/>
+            </ports>
+           </module>
+           <module type="DeformationRootModule" name="Deformation-Root" pos="108,-428,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <deformationquality val="Very High"/>
+            </attrs>
+           </module>
+           <module type="DeformationCompositeModule" name="Deformation-Composite" pos="108,172,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <outputmatrixonly val="false"/>
+             <outputselectedonly val="false"/>
+             <outputkinematicchainselector val="RIGHTMOST"/>
+             <outputkinematicchain val="1"/>
+            </attrs>
+           </module>
+           <module type="DeformationSwitchModule" name="Deformation-Switch" pos="108,222,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <vectorquality val="Very High"/>
+             <fadeexponent val="3"/>
+             <fadeinside val="false"/>
+             <enabledeformation val="1"/>
+             <chainselectionreference val="1"/>
+            </attrs>
+           </module>
+           <module type="OffsetModule" name="Offset" pos="108,-378,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <restingoffset>
+              <x val="-1.83813"/>
+              <y val="2.1587"/>
+             </restingoffset>
+             <restingorientation val="89.7016"/>
+             <offset>
+              <separate val="true"/>
+              <x val="-1.83813"/>
+              <y val="2.1587"/>
+             </offset>
+             <orientation val="89.7016"/>
+            </attrs>
+           </module>
+           <module type="CurveModule" name="Curve" pos="108,-328,0">
+            <shapedROI>
+             <pt pointOn="-5,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOn="5,-5"/>
+             <pt pointOff="5,-2"/>
+             <pt pointOff="5,2"/>
+             <pt pointOn="5,5"/>
+             <pt pointOff="2,5"/>
+             <pt pointOff="-2,5"/>
+             <pt pointOn="-5,5"/>
+             <pt pointOff="-5,2"/>
+             <pt pointOff="-5,-2"/>
+             <pt pointOn="-5,-5"/>
+            </shapedROI>
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <influencetype val="INFINITE_INFLUENCE"/>
+             <influencefade val="0.5"/>
+             <symmetric val="true"/>
+             <transversalradius val="2"/>
+             <transversalradiusright val="2"/>
+             <longitudinalradiusbegin val="0.25"/>
+             <longitudinalradius val="0.25"/>
+             <restlength0 val="1.82859"/>
+             <restingorientation0 val="0"/>
+             <restingoffset>
+              <x val="0.217058"/>
+              <y val="-1.08423"/>
+             </restingoffset>
+             <restlength1 val="1.11278"/>
+             <restingorientation1 val="-172.72"/>
+             <length0 val="1.82859"/>
+             <orientation0 val="0"/>
+             <offset>
+              <separate val="true"/>
+              <x val="0.217058"/>
+              <y val="-1.08423"/>
+             </offset>
+             <length1 val="1.11278"/>
+             <orientation1 val="-172.72"/>
+            </attrs>
+           </module>
+           <module type="CurveModule" name="Curve_1" pos="108,-278,0">
+            <shapedROI>
+             <pt pointOn="-5,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOn="5,-5"/>
+             <pt pointOff="5,-2"/>
+             <pt pointOff="5,2"/>
+             <pt pointOn="5,5"/>
+             <pt pointOff="2,5"/>
+             <pt pointOff="-2,5"/>
+             <pt pointOn="-5,5"/>
+             <pt pointOff="-5,2"/>
+             <pt pointOff="-5,-2"/>
+             <pt pointOn="-5,-5"/>
+            </shapedROI>
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <influencetype val="INFINITE_INFLUENCE"/>
+             <influencefade val="0.5"/>
+             <symmetric val="true"/>
+             <transversalradius val="2"/>
+             <transversalradiusright val="2"/>
+             <longitudinalradiusbegin val="0.25"/>
+             <longitudinalradius val="0.25"/>
+             <restlength0 val="1.11278"/>
+             <restingorientation0 val="0"/>
+             <restingoffset>
+              <x val="2.36656"/>
+              <y val="-0.103355"/>
+             </restingoffset>
+             <restlength1 val="1.28585"/>
+             <restingorientation1 val="-6.03296"/>
+             <length0 val="1.11278"/>
+             <orientation0 val="0"/>
+             <offset>
+              <separate val="true"/>
+              <x val="2.36656"/>
+              <y val="-0.103355"/>
+             </offset>
+             <length1 val="1.28585"/>
+             <orientation1 val="-6.03296"/>
+            </attrs>
+           </module>
+          </nodeslist>
+          <linkedlist>
+           <link out="Multi-Port-In" in="Deformation-Root"/>
+           <link out="Deformation-Root" in="Offset"/>
+           <link out="Deformation-Composite" in="Deformation-Switch"/>
+           <link out="Deformation-Switch" in="Multi-Port-Out" inport="0"/>
+           <link out="Offset" in="Curve"/>
+           <link out="Curve" in="Curve_1"/>
+           <link out="Curve_1" in="Deformation-Composite"/>
+           <link out="Curve_1" in="Multi-Port-Out" inport="1"/>
+          </linkedlist>
+         </group>
+         <module type="DeformationCompositeModule" name="Deformation-Car_Brazo_I-kinematic" pos="-192,222,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <outputmatrixonly val="true"/>
+           <outputselectedonly val="true"/>
+           <outputkinematicchainselector val="USE_PARENT_COMPOSITE"/>
+           <outputkinematicchain val="1"/>
+          </attrs>
+         </module>
+        </nodeslist>
+        <linkedlist>
+         <link out="Multi-Port-In" in="Deformation-Root"/>
+         <link out="Deformation-Root" in="1"/>
+         <link out="Deformation-Composite" in="Deformation-Switch"/>
+         <link out="Deformation-Composite" in="Deformation-Car_Brazo_I-kinematic" inport="0"/>
+         <link out="Deformation-Switch" in="Multi-Port-Out" inport="0"/>
+         <link out="1" in="Deformation-Composite"/>
+         <link out="1" outport="1" in="Deformation-Car_Brazo_I-kinematic" inport="1"/>
+         <link out="Deformation-Car_Brazo_I-kinematic" in="Multi-Port-Out" inport="1"/>
+        </linkedlist>
+       </group>
+       <group name="Deformation-Car_Pierna_I" pos="366,-408,6">
+        <options>
+         <subnodeCollapsed val="true"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs/>
+        <nodeslist>
+         <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="108,272,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <ports>
+           <port type="PEG" idx="0"/>
+           <port type="PEG" idx="1"/>
+          </ports>
+         </module>
+         <module type="MULTIPORT_IN" name="Multi-Port-In" pos="108,-478,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <ports>
+           <port type="PEG" idx="0"/>
+          </ports>
+         </module>
+         <module type="DeformationRootModule" name="Deformation-Root" pos="108,-428,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <deformationquality val="Very High"/>
+          </attrs>
+         </module>
+         <module type="DeformationCompositeModule" name="Deformation-Composite" pos="108,172,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <outputmatrixonly val="false"/>
+           <outputselectedonly val="true"/>
+           <outputkinematicchainselector val="CHILD_READ"/>
+           <outputkinematicchain val="1" col="Deformation-Switch_Kinematic_Chain_Selection_Reference_30"/>
+          </attrs>
+         </module>
+         <module type="DeformationSwitchModule" name="Deformation-Switch" pos="108,222,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <vectorquality val="Very High"/>
+           <fadeexponent val="3"/>
+           <fadeinside val="false"/>
+           <enabledeformation val="1"/>
+           <chainselectionreference val="1" col="Deformation-Switch_Kinematic_Chain_Selection_Reference_30"/>
+          </attrs>
+         </module>
+         <group name="1" pos="108,-178,0">
+          <options>
+           <subnodeCollapsed val="true"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs/>
+          <nodeslist>
+           <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="108,272,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <ports>
+             <port type="PEG" idx="0"/>
+             <port type="PEG" idx="1"/>
+            </ports>
+           </module>
+           <module type="MULTIPORT_IN" name="Multi-Port-In" pos="108,-478,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <ports>
+             <port type="PEG" idx="0"/>
+            </ports>
+           </module>
+           <module type="DeformationRootModule" name="Deformation-Root" pos="108,-428,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <deformationquality val="Very High"/>
+            </attrs>
+           </module>
+           <module type="DeformationCompositeModule" name="Deformation-Composite" pos="108,172,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <outputmatrixonly val="false"/>
+             <outputselectedonly val="false"/>
+             <outputkinematicchainselector val="RIGHTMOST"/>
+             <outputkinematicchain val="1"/>
+            </attrs>
+           </module>
+           <module type="DeformationSwitchModule" name="Deformation-Switch" pos="108,222,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <vectorquality val="Very High"/>
+             <fadeexponent val="3"/>
+             <fadeinside val="false"/>
+             <enabledeformation val="1"/>
+             <chainselectionreference val="1"/>
+            </attrs>
+           </module>
+           <module type="OffsetModule" name="Offset" pos="108,-378,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <restingoffset>
+              <x val="-1.96194"/>
+              <y val="-2.45082"/>
+             </restingoffset>
+             <restingorientation val="-92.7948"/>
+             <offset>
+              <separate val="true"/>
+              <x val="-1.96194"/>
+              <y val="-2.45082"/>
+             </offset>
+             <orientation val="-92.7948"/>
+            </attrs>
+           </module>
+           <module type="BoneModule" name="Bone" pos="108,-328,0">
+            <shapedROI>
+             <pt pointOn="-5,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOn="5,-5"/>
+             <pt pointOff="5,-2"/>
+             <pt pointOff="5,2"/>
+             <pt pointOn="5,5"/>
+             <pt pointOff="2,5"/>
+             <pt pointOff="-2,5"/>
+             <pt pointOn="-5,5"/>
+             <pt pointOff="-5,2"/>
+             <pt pointOff="-5,-2"/>
+             <pt pointOn="-5,-5"/>
+            </shapedROI>
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <influencetype val="INFINITE_INFLUENCE"/>
+             <influencefade val="0.5"/>
+             <symmetric val="true"/>
+             <transversalradius val="2"/>
+             <transversalradiusright val="2"/>
+             <longitudinalradiusbegin val="0.25"/>
+             <longitudinalradius val="0.25"/>
+             <restlength val="1.51212"/>
+             <length val="1.51212"/>
+            </attrs>
+           </module>
+           <module type="ArticulationModule" name="Articulation" pos="108,-278,0">
+            <shapedROI>
+             <pt pointOn="-5,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOn="5,-5"/>
+             <pt pointOff="5,-2"/>
+             <pt pointOff="5,2"/>
+             <pt pointOn="5,5"/>
+             <pt pointOff="2,5"/>
+             <pt pointOff="-2,5"/>
+             <pt pointOn="-5,5"/>
+             <pt pointOff="-5,2"/>
+             <pt pointOff="-5,-2"/>
+             <pt pointOn="-5,-5"/>
+            </shapedROI>
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <influencetype val="INFINITE_INFLUENCE"/>
+             <influencefade val="0.5"/>
+             <symmetric val="true"/>
+             <transversalradius val="2"/>
+             <transversalradiusright val="2"/>
+             <longitudinalradiusbegin val="0.25"/>
+             <longitudinalradius val="0.25"/>
+             <restradius val="0.100808"/>
+             <restingorientation val="1.29772"/>
+             <restbias val="0.45"/>
+             <radius val="0.100808"/>
+             <orientation val="1.29772"/>
+             <bias val="0.45"/>
+            </attrs>
+           </module>
+           <module type="BoneModule" name="Bone_1" pos="108,-228,0">
+            <shapedROI>
+             <pt pointOn="-5,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOn="5,-5"/>
+             <pt pointOff="5,-2"/>
+             <pt pointOff="5,2"/>
+             <pt pointOn="5,5"/>
+             <pt pointOff="2,5"/>
+             <pt pointOff="-2,5"/>
+             <pt pointOn="-5,5"/>
+             <pt pointOff="-5,2"/>
+             <pt pointOff="-5,-2"/>
+             <pt pointOn="-5,-5"/>
+            </shapedROI>
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <influencetype val="INFINITE_INFLUENCE"/>
+             <influencefade val="0.5"/>
+             <symmetric val="true"/>
+             <transversalradius val="2"/>
+             <transversalradiusright val="2"/>
+             <longitudinalradiusbegin val="0.25"/>
+             <longitudinalradius val="0.25"/>
+             <restlength val="1.02401"/>
+             <length val="1.02401"/>
+            </attrs>
+           </module>
+          </nodeslist>
+          <linkedlist>
+           <link out="Multi-Port-In" in="Deformation-Root"/>
+           <link out="Deformation-Root" in="Offset"/>
+           <link out="Deformation-Composite" in="Deformation-Switch"/>
+           <link out="Deformation-Switch" in="Multi-Port-Out" inport="0"/>
+           <link out="Offset" in="Bone"/>
+           <link out="Bone" in="Articulation"/>
+           <link out="Articulation" in="Bone_1"/>
+           <link out="Bone_1" in="Deformation-Composite"/>
+           <link out="Bone_1" in="Multi-Port-Out" inport="1"/>
+          </linkedlist>
+         </group>
+         <module type="DeformationCompositeModule" name="Deformation-Car_Pierna_I-kinematic" pos="-192,222,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <outputmatrixonly val="true"/>
+           <outputselectedonly val="true"/>
+           <outputkinematicchainselector val="USE_PARENT_COMPOSITE"/>
+           <outputkinematicchain val="1"/>
+          </attrs>
+         </module>
+        </nodeslist>
+        <linkedlist>
+         <link out="Multi-Port-In" in="Deformation-Root"/>
+         <link out="Deformation-Root" in="1"/>
+         <link out="Deformation-Composite" in="Deformation-Switch"/>
+         <link out="Deformation-Composite" in="Deformation-Car_Pierna_I-kinematic" inport="0"/>
+         <link out="Deformation-Switch" in="Multi-Port-Out" inport="0"/>
+         <link out="1" in="Deformation-Composite"/>
+         <link out="1" outport="1" in="Deformation-Car_Pierna_I-kinematic" inport="1"/>
+         <link out="Deformation-Car_Pierna_I-kinematic" in="Multi-Port-Out" inport="1"/>
+        </linkedlist>
+       </group>
+       <module type="LAYER_SELECTOR" name="Layer-Selector" pos="-621,-487,49">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <readOverlay val="true"/>
+         <readLineart val="false"/>
+         <readColourart val="false"/>
+         <readUnderlay val="false"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+        </attrs>
+       </module>
+       <group name="Deformation-Car_Cola" pos="663,-327,26">
+        <options>
+         <subnodeCollapsed val="true"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs/>
+        <nodeslist>
+         <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="108,272,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <ports>
+           <port type="PEG" idx="0"/>
+          </ports>
+         </module>
+         <module type="MULTIPORT_IN" name="Multi-Port-In" pos="108,-478,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <ports>
+           <port type="PEG" idx="0"/>
+          </ports>
+         </module>
+         <module type="DeformationRootModule" name="Deformation-Root" pos="108,-428,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <deformationquality val="Very High"/>
+          </attrs>
+         </module>
+         <module type="DeformationCompositeModule" name="Deformation-Composite" pos="108,172,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <outputmatrixonly val="false"/>
+           <outputselectedonly val="true"/>
+           <outputkinematicchainselector val="CHILD_READ"/>
+           <outputkinematicchain val="1" col="Deformation-Switch_Kinematic_Chain_Selection_Reference_31"/>
+          </attrs>
+         </module>
+         <module type="DeformationSwitchModule" name="Deformation-Switch" pos="108,222,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <vectorquality val="Very High"/>
+           <fadeexponent val="3"/>
+           <fadeinside val="false"/>
+           <enabledeformation val="1"/>
+           <chainselectionreference val="1" col="Deformation-Switch_Kinematic_Chain_Selection_Reference_31"/>
+          </attrs>
+         </module>
+         <group name="1" pos="108,-178,0">
+          <options>
+           <subnodeCollapsed val="true"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs/>
+          <nodeslist>
+           <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="108,272,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <ports>
+             <port type="PEG" idx="0"/>
+            </ports>
+           </module>
+           <module type="MULTIPORT_IN" name="Multi-Port-In" pos="108,-478,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <ports>
+             <port type="PEG" idx="0"/>
+            </ports>
+           </module>
+           <module type="DeformationRootModule" name="Deformation-Root" pos="108,-428,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <deformationquality val="Very High"/>
+            </attrs>
+           </module>
+           <module type="DeformationCompositeModule" name="Deformation-Composite" pos="108,172,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <outputmatrixonly val="false"/>
+             <outputselectedonly val="false"/>
+             <outputkinematicchainselector val="RIGHTMOST"/>
+             <outputkinematicchain val="1"/>
+            </attrs>
+           </module>
+           <module type="DeformationSwitchModule" name="Deformation-Switch" pos="108,222,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <vectorquality val="Very High"/>
+             <fadeexponent val="3"/>
+             <fadeinside val="false"/>
+             <enabledeformation val="1"/>
+             <chainselectionreference val="1"/>
+            </attrs>
+           </module>
+           <module type="OffsetModule" name="Offset" pos="108,-378,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <restingoffset>
+              <x val="-2.49337"/>
+              <y val="1.0133"/>
+             </restingoffset>
+             <restingorientation val="0"/>
+             <offset>
+              <separate val="true"/>
+              <x val="-2.49337"/>
+              <y val="1.0133"/>
+             </offset>
+             <orientation val="0"/>
+            </attrs>
+           </module>
+           <module type="CurveModule" name="Curve" pos="108,-328,0">
+            <shapedROI>
+             <pt pointOn="-5,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOn="5,-5"/>
+             <pt pointOff="5,-2"/>
+             <pt pointOff="5,2"/>
+             <pt pointOn="5,5"/>
+             <pt pointOff="2,5"/>
+             <pt pointOff="-2,5"/>
+             <pt pointOn="-5,5"/>
+             <pt pointOff="-5,2"/>
+             <pt pointOff="-5,-2"/>
+             <pt pointOn="-5,-5"/>
+            </shapedROI>
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <influencetype val="INFINITE_INFLUENCE"/>
+             <influencefade val="0.5"/>
+             <symmetric val="true"/>
+             <transversalradius val="2"/>
+             <transversalradiusright val="2"/>
+             <longitudinalradiusbegin val="0.25"/>
+             <longitudinalradius val="0.25"/>
+             <restlength0 val="1.32"/>
+             <restingorientation0 val="0"/>
+             <restingoffset>
+              <x val="-0.173333"/>
+              <y val="-2.77333"/>
+             </restingoffset>
+             <restlength1 val="1.39076"/>
+             <restingorientation1 val="175.601"/>
+             <length0 val="1.32"/>
+             <orientation0 val="0"/>
+             <offset>
+              <separate val="true"/>
+              <x val="-0.173333"/>
+              <y val="-2.77333"/>
+             </offset>
+             <length1 val="1.39076"/>
+             <orientation1 val="175.601"/>
+            </attrs>
+           </module>
+           <module type="CurveModule" name="Curve_1" pos="108,-278,0">
+            <shapedROI>
+             <pt pointOn="-5,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOn="5,-5"/>
+             <pt pointOff="5,-2"/>
+             <pt pointOff="5,2"/>
+             <pt pointOn="5,5"/>
+             <pt pointOff="2,5"/>
+             <pt pointOff="-2,5"/>
+             <pt pointOn="-5,5"/>
+             <pt pointOff="-5,2"/>
+             <pt pointOff="-5,-2"/>
+             <pt pointOn="-5,-5"/>
+            </shapedROI>
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <influencetype val="INFINITE_INFLUENCE"/>
+             <influencefade val="0.5"/>
+             <symmetric val="true"/>
+             <transversalradius val="2"/>
+             <transversalradiusright val="2"/>
+             <longitudinalradiusbegin val="0.25"/>
+             <longitudinalradius val="0.25"/>
+             <restlength0 val="1.39076"/>
+             <restingorientation0 val="0"/>
+             <restingoffset>
+              <x val="2.17306"/>
+              <y val="-4.60689"/>
+             </restingoffset>
+             <restlength1 val="4.52125"/>
+             <restingorientation1 val="-121.119"/>
+             <length0 val="1.39076"/>
+             <orientation0 val="0"/>
+             <offset>
+              <separate val="true"/>
+              <x val="2.17306"/>
+              <y val="-4.60689"/>
+             </offset>
+             <length1 val="4.52125"/>
+             <orientation1 val="-121.119"/>
+            </attrs>
+           </module>
+          </nodeslist>
+          <linkedlist>
+           <link out="Multi-Port-In" in="Deformation-Root"/>
+           <link out="Deformation-Root" in="Offset"/>
+           <link out="Deformation-Composite" in="Deformation-Switch"/>
+           <link out="Deformation-Switch" in="Multi-Port-Out"/>
+           <link out="Offset" in="Curve"/>
+           <link out="Curve" in="Curve_1"/>
+           <link out="Curve_1" in="Deformation-Composite"/>
+          </linkedlist>
+         </group>
+        </nodeslist>
+        <linkedlist>
+         <link out="Multi-Port-In" in="Deformation-Root"/>
+         <link out="Deformation-Root" in="1"/>
+         <link out="Deformation-Composite" in="Deformation-Switch"/>
+         <link out="Deformation-Switch" in="Multi-Port-Out"/>
+         <link out="1" in="Deformation-Composite"/>
+        </linkedlist>
+       </group>
+       <group name="Deformation-Car_Pierna_D" pos="-25,-561,8">
+        <options>
+         <subnodeCollapsed val="true"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs/>
+        <nodeslist>
+         <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="108,272,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <ports>
+           <port type="PEG" idx="0"/>
+           <port type="PEG" idx="1"/>
+          </ports>
+         </module>
+         <module type="MULTIPORT_IN" name="Multi-Port-In" pos="108,-478,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <ports>
+           <port type="PEG" idx="0"/>
+          </ports>
+         </module>
+         <module type="DeformationRootModule" name="Deformation-Root" pos="108,-428,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <deformationquality val="Very High"/>
+          </attrs>
+         </module>
+         <module type="DeformationCompositeModule" name="Deformation-Composite" pos="108,172,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <outputmatrixonly val="false"/>
+           <outputselectedonly val="true"/>
+           <outputkinematicchainselector val="CHILD_READ"/>
+           <outputkinematicchain val="1" col="Deformation-Switch_Kinematic_Chain_Selection_Reference_29"/>
+          </attrs>
+         </module>
+         <module type="DeformationSwitchModule" name="Deformation-Switch" pos="108,222,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <vectorquality val="Very High"/>
+           <fadeexponent val="3"/>
+           <fadeinside val="false"/>
+           <enabledeformation val="1"/>
+           <chainselectionreference val="1" col="Deformation-Switch_Kinematic_Chain_Selection_Reference_29"/>
+          </attrs>
+         </module>
+         <group name="1" pos="108,-178,0">
+          <options>
+           <subnodeCollapsed val="true"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs/>
+          <nodeslist>
+           <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="108,272,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <ports>
+             <port type="PEG" idx="0"/>
+             <port type="PEG" idx="1"/>
+            </ports>
+           </module>
+           <module type="MULTIPORT_IN" name="Multi-Port-In" pos="108,-478,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <ports>
+             <port type="PEG" idx="0"/>
+            </ports>
+           </module>
+           <module type="DeformationRootModule" name="Deformation-Root" pos="108,-428,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <deformationquality val="Very High"/>
+            </attrs>
+           </module>
+           <module type="DeformationCompositeModule" name="Deformation-Composite" pos="108,172,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <outputmatrixonly val="false"/>
+             <outputselectedonly val="false"/>
+             <outputkinematicchainselector val="RIGHTMOST"/>
+             <outputkinematicchain val="1"/>
+            </attrs>
+           </module>
+           <module type="DeformationSwitchModule" name="Deformation-Switch" pos="108,222,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <vectorquality val="Very High"/>
+             <fadeexponent val="3"/>
+             <fadeinside val="false"/>
+             <enabledeformation val="1"/>
+             <chainselectionreference val="1"/>
+            </attrs>
+           </module>
+           <module type="OffsetModule" name="Offset" pos="108,-378,0">
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <restingoffset>
+              <x val="-2.8667"/>
+              <y val="-2.80002"/>
+             </restingoffset>
+             <restingorientation val="-92.7802"/>
+             <offset>
+              <separate val="true"/>
+              <x val="-2.8667"/>
+              <y val="-2.80002"/>
+             </offset>
+             <orientation val="-92.7802"/>
+            </attrs>
+           </module>
+           <module type="BoneModule" name="Bone" pos="108,-328,0">
+            <shapedROI>
+             <pt pointOn="-5,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOn="5,-5"/>
+             <pt pointOff="5,-2"/>
+             <pt pointOff="5,2"/>
+             <pt pointOn="5,5"/>
+             <pt pointOff="2,5"/>
+             <pt pointOff="-2,5"/>
+             <pt pointOn="-5,5"/>
+             <pt pointOff="-5,2"/>
+             <pt pointOff="-5,-2"/>
+             <pt pointOn="-5,-5"/>
+            </shapedROI>
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <influencetype val="INFINITE_INFLUENCE"/>
+             <influencefade val="0.5"/>
+             <symmetric val="true"/>
+             <transversalradius val="2"/>
+             <transversalradiusright val="2"/>
+             <longitudinalradiusbegin val="0.25"/>
+             <longitudinalradius val="0.25"/>
+             <restlength val="1.45095"/>
+             <length val="1.45095"/>
+            </attrs>
+           </module>
+           <module type="ArticulationModule" name="Articulation" pos="108,-278,0">
+            <shapedROI>
+             <pt pointOn="-5,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOn="5,-5"/>
+             <pt pointOff="5,-2"/>
+             <pt pointOff="5,2"/>
+             <pt pointOn="5,5"/>
+             <pt pointOff="2,5"/>
+             <pt pointOff="-2,5"/>
+             <pt pointOn="-5,5"/>
+             <pt pointOff="-5,2"/>
+             <pt pointOff="-5,-2"/>
+             <pt pointOn="-5,-5"/>
+            </shapedROI>
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <influencetype val="INFINITE_INFLUENCE"/>
+             <influencefade val="0.5"/>
+             <symmetric val="true"/>
+             <transversalradius val="2"/>
+             <transversalradiusright val="2"/>
+             <longitudinalradiusbegin val="0.25"/>
+             <longitudinalradius val="0.25"/>
+             <restradius val="0.0967297"/>
+             <restingorientation val="3.70463"/>
+             <restbias val="0.45"/>
+             <radius val="0.0967297"/>
+             <orientation val="3.70463"/>
+             <bias val="0.45"/>
+            </attrs>
+           </module>
+           <module type="BoneModule" name="Bone_1" pos="108,-228,0">
+            <shapedROI>
+             <pt pointOn="-5,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOff="-2,-5"/>
+             <pt pointOn="5,-5"/>
+             <pt pointOff="5,-2"/>
+             <pt pointOff="5,2"/>
+             <pt pointOn="5,5"/>
+             <pt pointOff="2,5"/>
+             <pt pointOff="-2,5"/>
+             <pt pointOn="-5,5"/>
+             <pt pointOff="-5,2"/>
+             <pt pointOff="-5,-2"/>
+             <pt pointOn="-5,-5"/>
+            </shapedROI>
+            <options>
+             <version val="1"/>
+             <collapsed val="false"/>
+            </options>
+            <attrs>
+             <influencetype val="INFINITE_INFLUENCE"/>
+             <influencefade val="0.5"/>
+             <symmetric val="true"/>
+             <transversalradius val="2"/>
+             <transversalradiusright val="2"/>
+             <longitudinalradiusbegin val="0.25"/>
+             <longitudinalradius val="0.25"/>
+             <restlength val="1.0366"/>
+             <length val="1.0366"/>
+            </attrs>
+           </module>
+          </nodeslist>
+          <linkedlist>
+           <link out="Multi-Port-In" in="Deformation-Root"/>
+           <link out="Deformation-Root" in="Offset"/>
+           <link out="Deformation-Composite" in="Deformation-Switch"/>
+           <link out="Deformation-Switch" in="Multi-Port-Out" inport="0"/>
+           <link out="Offset" in="Bone"/>
+           <link out="Bone" in="Articulation"/>
+           <link out="Articulation" in="Bone_1"/>
+           <link out="Bone_1" in="Deformation-Composite"/>
+           <link out="Bone_1" in="Multi-Port-Out" inport="1"/>
+          </linkedlist>
+         </group>
+         <module type="DeformationCompositeModule" name="Deformation-Car_Pierna_D-kinematic" pos="-192,222,0">
+          <options>
+           <version val="1"/>
+           <collapsed val="false"/>
+          </options>
+          <attrs>
+           <outputmatrixonly val="true"/>
+           <outputselectedonly val="true"/>
+           <outputkinematicchainselector val="USE_PARENT_COMPOSITE"/>
+           <outputkinematicchain val="1"/>
+          </attrs>
+         </module>
+        </nodeslist>
+        <linkedlist>
+         <link out="Multi-Port-In" in="Deformation-Root"/>
+         <link out="Deformation-Root" in="1"/>
+         <link out="Deformation-Composite" in="Deformation-Switch"/>
+         <link out="Deformation-Composite" in="Deformation-Car_Pierna_D-kinematic" inport="0"/>
+         <link out="Deformation-Switch" in="Multi-Port-Out" inport="0"/>
+         <link out="1" in="Deformation-Composite"/>
+         <link out="1" outport="1" in="Deformation-Car_Pierna_D-kinematic" inport="1"/>
+         <link out="Deformation-Car_Pierna_D-kinematic" in="Multi-Port-Out" inport="1"/>
+        </linkedlist>
+       </group>
+       <module type="COMPOSITE" name="Com_Car_Top" pos="-615,-98,44">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <compositeMode val="compositeBitmap"/>
+         <flattenOutput val="true"/>
+         <flattenVector val="false"/>
+         <composite2d val="false"/>
+         <composite3d val="false"/>
+         <outputZ val="LEFTMOST"/>
+         <outputZInputPort val="1"/>
+         <applyFocus val="true"/>
+         <multiplier val="1"/>
+         <tvgPalette val="compositedPalette"/>
+         <mergeVector val="false"/>
+        </attrs>
+       </module>
+       <module type="COMPOSITE" name="Com_Car_Pata_D" pos="-337,-258,48">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <compositeMode val="compositeBitmap"/>
+         <flattenOutput val="true"/>
+         <flattenVector val="false"/>
+         <composite2d val="false"/>
+         <composite3d val="false"/>
+         <outputZ val="LEFTMOST"/>
+         <outputZInputPort val="1"/>
+         <applyFocus val="true"/>
+         <multiplier val="1"/>
+         <tvgPalette val="compositedPalette"/>
+         <mergeVector val="false"/>
+        </attrs>
+       </module>
+       <module type="COMPOSITE" name="Com_Car_Bottom" pos="17,-150,47">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <compositeMode val="compositeBitmap"/>
+         <flattenOutput val="true"/>
+         <flattenVector val="false"/>
+         <composite2d val="false"/>
+         <composite3d val="false"/>
+         <outputZ val="LEFTMOST"/>
+         <outputZInputPort val="1"/>
+         <applyFocus val="true"/>
+         <multiplier val="1"/>
+         <tvgPalette val="compositedPalette"/>
+         <mergeVector val="false"/>
+        </attrs>
+       </module>
+       <module type="COMPOSITE" name="Com_Perrito_Perfil" pos="-31,6,45">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <compositeMode val="compositeBitmap"/>
+         <flattenOutput val="true"/>
+         <flattenVector val="false"/>
+         <composite2d val="false"/>
+         <composite3d val="false"/>
+         <outputZ val="LEFTMOST"/>
+         <outputZInputPort val="1"/>
+         <applyFocus val="true"/>
+         <multiplier val="1"/>
+         <tvgPalette val="compositedPalette"/>
+         <mergeVector val="false"/>
+        </attrs>
+       </module>
+       <module type="COMPOSITE" name="Com_Car_Torso" pos="-471,-336,46">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <compositeMode val="compositeBitmap"/>
+         <flattenOutput val="true"/>
+         <flattenVector val="false"/>
+         <composite2d val="false"/>
+         <composite3d val="false"/>
+         <outputZ val="LEFTMOST"/>
+         <outputZInputPort val="1"/>
+         <applyFocus val="true"/>
+         <multiplier val="1"/>
+         <tvgPalette val="compositedPalette"/>
+         <mergeVector val="false"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Car_Torso" pos="-451,-613,35">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB23688388F0"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Car_Mano_I" pos="-120,-599,33">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB23688388F2"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Car_Pie_D" pos="105,-322,32">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB23688388F4"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Car_Mano_D" pos="-816,-501,36">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB23688388F6"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Car_Pie_I" pos="583,-287,30">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB23688388F8"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Car_Ojo_D" pos="-1226,-322,41">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB23688388FA"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Car_Pierna_I" pos="366,-340,31">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB23688388FC"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Car_Cola" pos="663,-166,27">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB23688388FE"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Car_Cartera" pos="-678,-624,37">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB2368838900"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Car_Brazo_D" pos="-1014,-554,38">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0993CB2368838902"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Gorra-P" pos="-1434,-439,15">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Pierna_I-P" pos="389,-476,24">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="-2.06666"/>
+          <y val="-3.19999"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Ojo_D-P" pos="-1350,-485,18">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Pie_D-P" pos="164,-456,7">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Mano_D-P" pos="-816,-601,1">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Brazo_I-P" pos="-285,-831,19">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="-0.777776"/>
+          <y val="2.07407"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Peg_Master_Top" pos="-950,-931,12">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="-2.45333"/>
+          <y val="-3.07555"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Cola-P" pos="769,-489,25">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="-3.42221"/>
+          <y val="-2.45925"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Peg_Master_Cabeza" pos="-1295,-685,29">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Peg_Master" pos="-363,-1129,13">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="-1.51666"/>
+          <y val="0.733332"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Brazo_D-P" pos="-1008,-710,20">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="-2.52222"/>
+          <y val="1.82222"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Cabeza-P" pos="-1100,-522,16">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Cartera-P" pos="-678,-724,22">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0.0888887"/>
+          <y val="-0.0148148"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Oreja-P" pos="-1607,-401,14">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Peg_Master_Bottom" pos="185,-892,11">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="-2.33333"/>
+          <y val="-3.0074"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Torso-P" pos="-451,-713,21">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Pierna_D-P" pos="86,-619,23">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="-2.87777"/>
+          <y val="-3.18518"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Pie_I-P" pos="574,-361,5">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Mano_I-P" pos="-111,-732,3">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Car_Ojo_I-P" pos="-1211,-513,17">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+      </nodeslist>
+      <linkedlist>
+       <link out="Multi-Port-In" in="Peg_Master"/>
+       <link out="Car_Cabeza" in="Com_Car_Top" inport="2"/>
+       <link out="Car_Gorra" in="Com_Car_Top" inport="9"/>
+       <link out="Car_Ojo_I" in="Com_Car_Top" inport="7"/>
+       <link out="Car_Brazo_I" in="Com_Car_Torso" inport="1"/>
+       <link out="Car_Pierna_D" in="Com_Car_Pata_D" inport="1"/>
+       <link out="Car_Oreja" in="Com_Car_Top" inport="10"/>
+       <link out="Deformation-Car_Brazo_D" in="Car_Brazo_D"/>
+       <link out="Deformation-Car_Brazo_I" in="Car_Brazo_I"/>
+       <link out="Deformation-Car_Brazo_I" outport="1" in="Car_Mano_I-P"/>
+       <link out="Deformation-Car_Pierna_I" in="Car_Pierna_I"/>
+       <link out="Deformation-Car_Pierna_I" outport="1" in="Car_Pie_I-P"/>
+       <link out="Layer-Selector" in="Com_Car_Top" inport="3"/>
+       <link out="Deformation-Car_Cola" in="Car_Cola"/>
+       <link out="Deformation-Car_Pierna_D" in="Car_Pierna_D"/>
+       <link out="Deformation-Car_Pierna_D" outport="1" in="Car_Pie_D-P"/>
+       <link out="Com_Car_Top" in="Com_Perrito_Perfil" inport="2"/>
+       <link out="Com_Car_Pata_D" in="Com_Car_Top" inport="1"/>
+       <link out="Com_Car_Bottom" in="Com_Perrito_Perfil" inport="1"/>
+       <link out="Com_Perrito_Perfil" in="Multi-Port-Out"/>
+       <link out="Com_Car_Torso" in="Com_Car_Top" inport="0"/>
+       <link out="Car_Torso" in="Layer-Selector"/>
+       <link out="Car_Torso" in="Com_Car_Torso" inport="2"/>
+       <link out="Car_Mano_I" in="Com_Car_Torso" inport="0"/>
+       <link out="Car_Pie_D" in="Com_Car_Pata_D" inport="0"/>
+       <link out="Car_Mano_D" in="Com_Car_Top" inport="5"/>
+       <link out="Car_Pie_I" in="Com_Car_Bottom" inport="0"/>
+       <link out="Car_Ojo_D" in="Com_Car_Top" inport="8"/>
+       <link out="Car_Pierna_I" in="Com_Car_Bottom" inport="1"/>
+       <link out="Car_Cola" in="Com_Perrito_Perfil" inport="0"/>
+       <link out="Car_Cartera" in="Com_Car_Top" inport="4"/>
+       <link out="Car_Brazo_D" in="Com_Car_Top" inport="6"/>
+       <link out="Car_Gorra-P" in="Car_Gorra"/>
+       <link out="Car_Pierna_I-P" in="Deformation-Car_Pierna_I"/>
+       <link out="Car_Ojo_D-P" in="Car_Ojo_D"/>
+       <link out="Car_Pie_D-P" in="Car_Pie_D"/>
+       <link out="Car_Mano_D-P" in="Car_Mano_D"/>
+       <link out="Car_Brazo_I-P" in="Deformation-Car_Brazo_I"/>
+       <link out="Peg_Master_Top" in="Peg_Master_Cabeza"/>
+       <link out="Peg_Master_Top" in="Car_Brazo_D-P"/>
+       <link out="Peg_Master_Top" in="Car_Cartera-P"/>
+       <link out="Peg_Master_Top" in="Car_Torso-P"/>
+       <link out="Peg_Master_Top" in="Car_Brazo_I-P"/>
+       <link out="Peg_Master_Top" in="Car_Cola-P"/>
+       <link out="Car_Cola-P" in="Deformation-Car_Cola"/>
+       <link out="Peg_Master_Cabeza" in="Car_Oreja-P"/>
+       <link out="Peg_Master_Cabeza" in="Car_Gorra-P"/>
+       <link out="Peg_Master_Cabeza" in="Car_Ojo_D-P"/>
+       <link out="Peg_Master_Cabeza" in="Car_Ojo_I-P"/>
+       <link out="Peg_Master_Cabeza" in="Car_Cabeza-P"/>
+       <link out="Peg_Master" in="Peg_Master_Top"/>
+       <link out="Peg_Master" in="Peg_Master_Bottom"/>
+       <link out="Car_Brazo_D-P" in="Deformation-Car_Brazo_D"/>
+       <link out="Car_Cabeza-P" in="Car_Cabeza"/>
+       <link out="Car_Cartera-P" in="Car_Cartera"/>
+       <link out="Car_Oreja-P" in="Car_Oreja"/>
+       <link out="Peg_Master_Bottom" in="Car_Pierna_D-P"/>
+       <link out="Peg_Master_Bottom" in="Car_Pierna_I-P"/>
+       <link out="Car_Torso-P" in="Car_Torso"/>
+       <link out="Car_Pierna_D-P" in="Deformation-Car_Pierna_D"/>
+       <link out="Car_Pie_I-P" in="Car_Pie_I"/>
+       <link out="Car_Mano_I-P" in="Car_Mano_I"/>
+       <link out="Car_Ojo_I-P" in="Car_Ojo_I"/>
+      </linkedlist>
+     </group>
+    </nodeslist>
+    <linkedlist/>
+   </rootgroup>
+  </scene>
+ </scenes>
+ <symbols>
+  <folder name="Symbols">
+   <scene id="0993cb23688388c7"/>
+  </folder>
+ </symbols>
+ <actionTemplate validationMarker="1">
+  <node val="Top/Perrito_TresCuartos"/>
+ </actionTemplate>
+ <timeline>
+  <scene id="0993cb23688388c7"/>
+ </timeline>
+</project>
