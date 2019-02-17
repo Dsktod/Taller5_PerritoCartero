@@ -1,0 +1,2328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project source="Stage (Stage.exe) version 10.3.0 build 8663 2013-11-20 21:00:13" version="1030" build="8663" creator="harmony">
+ <elements>
+  <element id="1" elementName="C_Brazo_I" elementFolder="C_Brazo_I" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="2" elementName="C_Mano_I" elementFolder="C_Mano_I" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="3" elementName="C_Boca" elementFolder="C_Boca" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="4" elementName="C_Mano_D" elementFolder="C_Mano_D" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="5" elementName="C_Gafas" elementFolder="C_Gafas" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="6" elementName="C_Nariz" elementFolder="C_Nariz" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="7" elementName="C_Cabeza" elementFolder="C_Cabeza" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="8" elementName="C_Ojo_D" elementFolder="C_Ojo_D" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+   </drawings>
+  </element>
+  <element id="9" elementName="C_Ojo_I" elementFolder="C_Ojo_I" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+   </drawings>
+  </element>
+  <element id="10" elementName="C_Cuerpo" elementFolder="C_Cuerpo" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="11" elementName="C_Brazo_D" elementFolder="C_Brazo_D" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="12" elementName="C_Carta" elementFolder="C_Carta" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+ </elements>
+ <options>
+  <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
+  <resolution name="HDTV_Vertical" size="1920,1080" fovFit="VerticalFitFov" fov="41.1121"/>
+  <framerate val="24"/>
+  <zdragging val="true"/>
+  <zOrderCompatibilityWith7_3 val="false"/>
+  <cameraInSymbols val="true"/>
+ </options>
+ <scenes>
+  <scene name="Top" id="099415f098d31f51" nbframes="60">
+   <columns>
+    <column type="0" name="ATV-099415F098D31F9E" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="1">
+     <elementSeq exposures="1" val="1" id="1"/>
+    </column>
+    <column type="0" name="ATV-099415F098D31FA0" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="2">
+     <elementSeq exposures="1" val="1" id="2"/>
+    </column>
+    <column type="0" name="ATV-099415F098D31FA2" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="3">
+     <elementSeq exposures="1" val="1" id="3"/>
+    </column>
+    <column type="0" name="ATV-099415F098D31FA4" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="4">
+     <elementSeq exposures="1" val="1" id="4"/>
+    </column>
+    <column type="0" name="ATV-099415F098D31FA6" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="5">
+     <elementSeq exposures="1" val="1" id="5"/>
+    </column>
+    <column type="0" name="ATV-099415F098D31FA8" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="6">
+     <elementSeq exposures="1" val="1" id="6"/>
+    </column>
+    <column type="0" name="ATV-099415F098D31FAA" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="7">
+     <elementSeq exposures="1" val="1" id="7"/>
+    </column>
+    <column type="0" name="ATV-099415F098D31FAC" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="8">
+     <elementSeq exposures="1" val="1" id="8"/>
+    </column>
+    <column type="0" name="ATV-099415F098D31FAE" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="9">
+     <elementSeq exposures="1" val="1" id="9"/>
+    </column>
+    <column type="0" name="ATV-099415F098D31FB0" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="10">
+     <elementSeq exposures="1" val="1" id="10"/>
+    </column>
+    <column type="0" name="ATV-099415F098D31FB2" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="11">
+     <elementSeq exposures="1" val="1" id="11"/>
+    </column>
+    <column type="0" name="ATV-099415F098D31FB4" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="12">
+     <elementSeq exposures="1" val="1" id="12"/>
+    </column>
+   </columns>
+   <options>
+    <defaultDisplay val="Unconnected_Display"/>
+   </options>
+   <rootgroup name="Top">
+    <options>
+     <collapsed val="false"/>
+    </options>
+    <nodeslist>
+     <group name="Abuelita_Frente" pos="0,33,1">
+      <options>
+       <subnodeCollapsed val="true"/>
+       <collapsed val="false"/>
+      </options>
+      <attrs/>
+      <nodeslist>
+       <module type="MULTIPORT_IN" name="Multi-Port-In" pos="115,-845,6">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="115,262,7">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <ports>
+         <port type="IMAGE" idx="0"/>
+        </ports>
+       </module>
+       <module type="READ" name="C_Brazo_I" pos="911,-158,27">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-099415F098D31F9E"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="C_Mano_I" pos="424,-149,28">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-099415F098D31FA0"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="C_Boca" pos="-139,-152,31">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-099415F098D31FA2"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="C_Mano_D" pos="233,-142,29">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-099415F098D31FA4"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="C_Gafas" pos="-779,-98,4">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-099415F098D31FA6"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="C_Nariz" pos="-293,-149,32">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-099415F098D31FA8"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="C_Cabeza" pos="24,-136,30">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-099415F098D31FAA"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="C_Ojo_D" pos="-648,-155,1">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-099415F098D31FAC"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="C_Ojo_I" pos="-464,-154,2">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-099415F098D31FAE"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="C_Cuerpo" pos="1106,-155,15">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-099415F098D31FB0"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="COMPOSITE" name="Com_Cabeza" pos="125,101,5">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <compositeMode val="compositeBitmap"/>
+         <flattenOutput val="true"/>
+         <flattenVector val="false"/>
+         <composite2d val="false"/>
+         <composite3d val="false"/>
+         <outputZ val="LEFTMOST"/>
+         <outputZInputPort val="1"/>
+         <applyFocus val="true"/>
+         <multiplier val="1"/>
+         <tvgPalette val="compositedPalette"/>
+         <mergeVector val="false"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Peg_Master_Cabeza" pos="-216,-512,9">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="2.09999"/>
+          <y val="2.26666"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="C_Brazo_I-P" pos="806,-320,14">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="C_Carta-P" pos="545,-242,19">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="C_Cuerpo-P" pos="835,-452,10">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="C_Brazo_D-P" pos="609,-336,11">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Peg_Master_Cuerpo" pos="205,-542,13">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="2.14999"/>
+          <y val="0.499999"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="C_Gafas-P" pos="-779,-198,25">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="C_Boca-P" pos="-139,-252,21">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="C_Mano_I-P" pos="403,-241,17">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="C_Nariz-P" pos="-293,-249,22">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="C_Ojo_I-P" pos="-464,-254,23">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Peg_Master" pos="122,-745,12">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="2.075"/>
+          <y val="0.399999"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="C_Mano_D-P" pos="233,-242,18">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="C_Ojo_D-P" pos="-648,-255,24">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="C_Cabeza-P" pos="24,-236,20">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <position>
+          <separate val="false"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="C_Brazo_D" pos="706,-112,26">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-099415F098D31FB2"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="C_Carta" pos="555,-159,16">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </offset>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1"/>
+          <x val="1"/>
+          <y val="1"/>
+          <z val="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0"/>
+          <angley val="0"/>
+          <anglez val="0"/>
+         </rotation>
+         <angle val="0"/>
+         <skew val="0"/>
+         <pivot>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0"/>
+          <y val="0"/>
+          <z val="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360"/>
+         <maxAngle val="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.2"/>
+         <ikBoneY val="0"/>
+         <ikStiffness val="1"/>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-099415F098D31FB4"/>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12"/>
+          </customName>
+         </drawing>
+         <readLineArt val="true"/>
+         <readColorArt val="true"/>
+         <readColor val="true"/>
+         <readTransparency val="true"/>
+         <applyMatteToColor val="N"/>
+         <enableLineTexture val="true"/>
+         <antialiasingQuality val="HIGH"/>
+         <antialiasingExponent val="1"/>
+         <opacity val="100"/>
+         <textureFilter val="NEAREST_FILTERED"/>
+         <adjustPencilThickness val="false"/>
+         <normalLineArtThickness val="true"/>
+         <zoomIndependentLineArtThickness val="true"/>
+         <multLineArtThickness val="1"/>
+         <addLineArtThickness val="0"/>
+         <minLineArtThickness val="0"/>
+         <maxLineArtThickness val="0"/>
+         <readOverlay val="true"/>
+         <readUnderlay val="true"/>
+         <useDrawingPivot val="Y"/>
+         <flipHor val="false"/>
+         <flipVert val="false"/>
+         <turnBeforeAlignment val="false"/>
+         <noClipping val="false"/>
+         <xClipFactor val="0"/>
+         <yClipFactor val="0"/>
+         <alignmentRule val="CENTER_FIRST_PAGE"/>
+         <morphingVelo val="0"/>
+         <canAnimate val="true"/>
+        </attrs>
+       </module>
+       <module type="COMPOSITE" name="Composite_1" pos="314,132,8">
+        <options>
+         <version val="1"/>
+         <collapsed val="false"/>
+        </options>
+        <attrs>
+         <compositeMode val="compositeBitmap"/>
+         <flattenOutput val="true"/>
+         <flattenVector val="false"/>
+         <composite2d val="false"/>
+         <composite3d val="false"/>
+         <outputZ val="LEFTMOST"/>
+         <outputZInputPort val="1"/>
+         <applyFocus val="true"/>
+         <multiplier val="1"/>
+         <tvgPalette val="compositedPalette"/>
+         <mergeVector val="false"/>
+        </attrs>
+       </module>
+      </nodeslist>
+      <linkedlist>
+       <link out="Multi-Port-In" in="Peg_Master"/>
+       <link out="C_Brazo_I" in="Composite_1" inport="1"/>
+       <link out="C_Mano_I" in="Composite_1" inport="5"/>
+       <link out="C_Boca" in="Com_Cabeza" inport="1"/>
+       <link out="C_Mano_D" in="Composite_1" inport="6"/>
+       <link out="C_Gafas" in="Com_Cabeza" inport="5"/>
+       <link out="C_Nariz" in="Com_Cabeza" inport="2"/>
+       <link out="C_Cabeza" in="Com_Cabeza" inport="0"/>
+       <link out="C_Ojo_D" in="Com_Cabeza" inport="4"/>
+       <link out="C_Ojo_I" in="Com_Cabeza" inport="3"/>
+       <link out="C_Cuerpo" in="Composite_1" inport="0"/>
+       <link out="Com_Cabeza" in="Composite_1" inport="3"/>
+       <link out="Peg_Master_Cabeza" in="C_Gafas-P"/>
+       <link out="Peg_Master_Cabeza" in="C_Ojo_D-P"/>
+       <link out="Peg_Master_Cabeza" in="C_Ojo_I-P"/>
+       <link out="Peg_Master_Cabeza" in="C_Nariz-P"/>
+       <link out="Peg_Master_Cabeza" in="C_Boca-P"/>
+       <link out="Peg_Master_Cabeza" in="C_Cabeza-P"/>
+       <link out="C_Brazo_I-P" in="C_Brazo_I"/>
+       <link out="C_Brazo_I-P" in="C_Mano_I-P"/>
+       <link out="C_Carta-P" in="C_Carta"/>
+       <link out="C_Cuerpo-P" in="C_Cuerpo"/>
+       <link out="C_Cuerpo-P" in="C_Brazo_I-P"/>
+       <link out="C_Cuerpo-P" in="C_Brazo_D-P"/>
+       <link out="C_Brazo_D-P" in="C_Brazo_D"/>
+       <link out="C_Brazo_D-P" in="C_Mano_D-P"/>
+       <link out="Peg_Master_Cuerpo" in="C_Carta-P"/>
+       <link out="Peg_Master_Cuerpo" in="C_Cuerpo-P"/>
+       <link out="C_Gafas-P" in="C_Gafas"/>
+       <link out="C_Boca-P" in="C_Boca"/>
+       <link out="C_Mano_I-P" in="C_Mano_I"/>
+       <link out="C_Nariz-P" in="C_Nariz"/>
+       <link out="C_Ojo_I-P" in="C_Ojo_I"/>
+       <link out="Peg_Master" in="Peg_Master_Cabeza"/>
+       <link out="Peg_Master" in="Peg_Master_Cuerpo"/>
+       <link out="C_Mano_D-P" in="C_Mano_D"/>
+       <link out="C_Ojo_D-P" in="C_Ojo_D"/>
+       <link out="C_Cabeza-P" in="C_Cabeza"/>
+       <link out="C_Brazo_D" in="Composite_1" inport="2"/>
+       <link out="C_Carta" in="Composite_1" inport="4"/>
+       <link out="Composite_1" in="Multi-Port-Out"/>
+      </linkedlist>
+     </group>
+    </nodeslist>
+    <linkedlist/>
+   </rootgroup>
+  </scene>
+ </scenes>
+ <symbols>
+  <folder name="Symbols">
+   <scene id="099415f098d31f51"/>
+  </folder>
+ </symbols>
+ <actionTemplate validationMarker="1">
+  <node val="Top/Abuelita_Frente"/>
+ </actionTemplate>
+ <timeline>
+  <scene id="099415f098d31f51"/>
+ </timeline>
+</project>
