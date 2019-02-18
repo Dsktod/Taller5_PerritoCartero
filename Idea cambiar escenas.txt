@@ -1,0 +1,10 @@
+Ejemplo de codigo para cambiar escena en unity
+
+UnityEngine.SceneManagement
+SceneManager.LoadScene(numero de la escena en los build settings)
+
+	Se cambia la escena cuando un video termina
+	https://docs.unity3d.com/ScriptReference/Video.VideoPlayer.html
+
+	Se cambia la escena cuando la interaccion termina
+	Esto es  midiendo el tiempo o la posicion del sprite 
