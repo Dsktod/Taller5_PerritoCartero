@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/video1.unity
+    guid: 6f11080e1af77144ea7e6f52fc8e7c0a
+  - enabled: 1
+    path: Assets/Scenes/Flappy.unity
+    guid: cca5cca4c9012b948890f004423b29d3
+  - enabled: 1
+    path: Assets/Scenes/video2.unity
+    guid: f58a6dcef0ccd7f4f97f9c660a6f0ce5
+  - enabled: 1
+    path: Assets/Scenes/door1.unity
+    guid: 1a62df5e53276df429d959c087dad6df
+  - enabled: 1
+    path: Assets/Scenes/video3.unity
+    guid: 1ea228f7be688534781e63c50020d90d
+  - enabled: 1
+    path: Assets/Scenes/carta.unity
+    guid: 874bfecf53fe2d0498910e59da320df4
+  - enabled: 1
+    path: Assets/Scenes/video4.unity
+    guid: e8ed6da32521fc7409e17ab888008061
+  m_configObjects: {}
