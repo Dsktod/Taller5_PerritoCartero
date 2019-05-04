@@ -1,0 +1,5 @@
+ToonBoomAnimationInc PaletteList 1
+palette-library/sam_pencil_texture LINK "C:/Users/Usuario/Desktop/sam/palette-library/sam_pencil_texture.plt"
+palette-library/sam LINK "C:/Users/Usuario/Desktop/sam/palette-library/sam.plt"
+palette-library/New LINK "C:/Users/Usuario/Desktop/sam/palette-library/New.plt"
+palette-library/Default_rec LINK "C:/Users/Usuario/Desktop/sam/palette-library/Default_rec.plt"

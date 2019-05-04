@@ -1,0 +1,4 @@
+ToonBoomAnimationInc PaletteList 1
+palette-library/mueco LINK "C:/Users/Usuario/Desktop/mueco/palette-library/mueco.plt"
+palette-library/mueco_pencil_texture LINK "C:/Users/Usuario/Desktop/mueco/palette-library/mueco_pencil_texture.plt"
+palette-library/Default_rec LINK "G:/PRograma/mueco/palette-library/Default_rec.plt"
