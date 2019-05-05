@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements source="Harmony Premium (HarmonyPremium.exe) version 16.0.0 build 14155 2018-11-01 15:36:56" version="1600" build="14155">
+ <element id="1" elementName="DRAW" elementFolder="DRAW" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="2" elementName="TC_Pata_Der" elementFolder="TC_Pata_Der" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="3" elementName="TC_Pierna_Der" elementFolder="TC_Pierna_Der" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="4" elementName="TC_Pata_Der" elementFolder="TC_Pata_Der.4" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="5" elementName="TC_Pierna_Der" elementFolder="TC_Pierna_Der.5" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="6" elementName="CT_Cuerpo" elementFolder="CT_Cuerpo" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="7" elementName="CT_Nariz" elementFolder="CT_Nariz" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="8" elementName="CT_Cola" elementFolder="CT_Cola" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="9" elementName="Boca_Abajo" elementFolder="Boca_Abajo" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="10" elementName="Boca_Arriba" elementFolder="Boca_Arriba" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="11" elementName="Boca_Arriba" elementFolder="Boca_Arriba.11" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="12" elementName="Boca_Abajo" elementFolder="Boca_Abajo.12" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="13" elementName="Cuello_Der" elementFolder="Cuello_Der" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="14" elementName="Cuello_Izq" elementFolder="Cuello_Izq" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="15" elementName="Cara_Der" elementFolder="Cara_Der" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="16" elementName="Ojo_Der_Cara_Der" elementFolder="Ojo_Der_Cara_Der" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="17" elementName="Ojo_Izq_Cara_Der" elementFolder="Ojo_Izq_Cara_Der" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="18" elementName="Nariz_Cara_Der" elementFolder="Nariz_Cara_Der" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="19" elementName="Boca_Cara_Der" elementFolder="Boca_Cara_Der" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="20" elementName="Oreja_Cara_Derecha" elementFolder="Oreja_Cara_Derecha" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="21" elementName="Cabello_Cara_Der" elementFolder="Cabello_Cara_Der" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="22" elementName="Pupila_Der_Cara_Der" elementFolder="Pupila_Der_Cara_Der" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="23" elementName="Pupila_Izq_Cara_Der" elementFolder="Pupila_Izq_Cara_Der" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="24" elementName="Pupila_Izq_Cara_Izq_1" elementFolder="Pupila_Izq_Cara_Izq_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="25" elementName="Pupila_Der_Cara_Izq_1" elementFolder="Pupila_Der_Cara_Izq_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="26" elementName="Boca_Cara_Izq_1" elementFolder="Boca_Cara_Izq_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="27" elementName="Nariz_Cara_Izq_1" elementFolder="Nariz_Cara_Izq_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="28" elementName="Ojo_Izq_Cara_Izq_1" elementFolder="Ojo_Izq_Cara_Izq_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="29" elementName="Ojo_Der_Cara_Izq_1" elementFolder="Ojo_Der_Cara_Izq_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="30" elementName="Cara_Izq_1" elementFolder="Cara_Izq_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="31" elementName="Cabello_Cara_Izq_1" elementFolder="Cabello_Cara_Izq_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="32" elementName="Oreja_Cara_Izq_1" elementFolder="Oreja_Cara_Izq_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+</elements>
